@@ -144,4 +144,31 @@ Variational Autoencoder:
 - https://github.com/GlassyWing/nvae
 
 
+# Exemplified Generations
+<p align="center">
+  <img 
+    width="600"
+    height="100"
+    src="output/sample_images/shape_example1.pdf"
+  >
+    <img 
+    width="600"
+    height="100"
+    src="output/sample_images/shape_example2.pdf"
+  >
+</p>
+
+<p align="center">
+  <img 
+    width="600"
+    height="100"
+    src="output/sample_images/style_example1.pdf"
+  >
+    <img 
+    width="600"
+    height="100"
+    src="output/sample_images/style_example2.pdf"
+  >
+</p>
+
 
