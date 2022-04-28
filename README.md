@@ -204,7 +204,7 @@ Garment Designs
 <p align="center">
   <img 
     width="400"
-    src="output/sample_images/style_tranfer_example1.jpg"
+    src="output/sample_images/style_transfer_example1.jpg"
   >
   <img 
     width="400"
