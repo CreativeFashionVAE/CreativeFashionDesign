@@ -96,7 +96,7 @@ You can specify the garment type as follows:
 --garment_type: choices=[ButtonUpShirts, Buttondown, Crew, Pullover, Vneck, Blouses, Raglan, Workout, Athletic, TShirts]
 
 ```diff
-python ./Main.py --unzip False --generation_type Shape --shape_generation selectedReconstruction --gender Womens --sleeve_length LongSleeves --garnment_type Vneck
+python ./Main.py --unzip False --generation_type Shape --shape_generation selectedReconstruction --gender Womens --sleeve_length LongSleeves --garment_type Vneck
 ```
 <img src="output/sample_images/recon1.png" width="134">   <img src="output/sample_images/applied1.png" width="537"> <img src="output/sample_images/final1.png" width="134">
 
