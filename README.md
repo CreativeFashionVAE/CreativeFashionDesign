@@ -112,12 +112,12 @@ You can either use random inspirational sources or preselected ones as follows:
 
 --style_images: choices=['Random', 'Selected']
 
-If you choose 'Selected', you additionally are able to to specify the style images' paths using --pattern1 and --pattern2.
+If you choose 'Selected', you additionally are able to to specify the style images' paths using --style1 and --style2.
 
 You can also specify how many interpolation steps you want to create between the inspirational sources using --interpolation_steps. 
 
 ```diff
-python ./Main.py --unzip False --generation_type Style --style_images Selected --pattern1 "abstract_brown (5).jpg" --pattern2 "abstract_brown (39).jpg" --interpolation_steps 32
+python ./Main.py --unzip False --generation_type Style --style_images Selected --style1 "abstract_brown (5).jpg" --style2 "abstract_brown (39).jpg" --interpolation_steps 6
 ```
 
 <p align="center">
@@ -134,7 +134,7 @@ To retrain either the pattern model or the shape model, execute one of the follo
 python ./Main.py --train Shape
 ```
 ```diff
-python ./Main.py --train Pattern
+python ./Main.py --train Style
 ```
 
 
