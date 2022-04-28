@@ -7,7 +7,7 @@ This is the official repository for the paper "Computational Creative Systems in
 ### 1. Clone the repositiory
 To run the code, use the following command to clone the repository:
 ```diff
-git clone XXX
+git clone https://github.com/CreativeFashionVAE/CreativeFashionDesign.git
 ```
 
 ### 2. Install the requirements
