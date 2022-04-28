@@ -153,7 +153,7 @@ Sampled and Reconstructed Garment Shapes
     src="output/sample_images/shape_example1.jpg"
   >
     <img 
-    width="500"
+    width="400"
     src="output/sample_images/shape_example2.jpg"
   >
 </p>
@@ -162,12 +162,40 @@ Garment Styles
 
 <p align="center">
   <img 
-    width="500"
+    width="400"
     src="output/sample_images/style_example1.jpg"
   >
-    <img 
+  <img 
     width="400"
     src="output/sample_images/style_example2.jpg"
+  >
+  <img 
+    width="400"
+    src="output/sample_images/style_example3.jpg"
+  >
+  <img 
+    width="400"
+    src="output/sample_images/style_example4.jpg"
+  >
+  <img 
+    width="400"
+    src="output/sample_images/style_example5.jpg"
+  >
+  <img 
+    width="400"
+    src="output/sample_images/style_example6.jpg"
+  >
+  <img 
+    width="400"
+    src="output/sample_images/style_example7.jpg"
+  >
+  <img 
+    width="400"
+    src="output/sample_images/style_example8.jpg"
+  >
+  <img 
+    width="400"
+    src="output/sample_images/style_example9.jpg"
   >
 </p>
 
@@ -175,12 +203,20 @@ Garment Designs
 
 <p align="center">
   <img 
-    width="500"
+    width="400"
     src="output/sample_images/style_tranfer_example1.jpg"
   >
-    <img 
+  <img 
     width="400"
     src="output/sample_images/style_transfer_example2.jpg"
+  >
+  <img 
+    width="400"
+    src="output/sample_images/style_transfer_example3.jpg"
+  >
+  <img 
+    width="400"
+    src="output/sample_images/style_transfer_example4.jpg"
   >
 </p>
 
