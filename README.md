@@ -149,11 +149,11 @@ Sampled and Reconstructed Garment Shapes
 
 <p align="center">
   <img 
-    width="600"
+    width="400"
     src="output/sample_images/shape_example1.jpg"
   >
     <img 
-    width="600"
+    width="500"
     src="output/sample_images/shape_example2.jpg"
   >
 </p>
@@ -162,11 +162,11 @@ Garment Styles
 
 <p align="center">
   <img 
-    width="600"
+    width="500"
     src="output/sample_images/style_example1.jpg"
   >
     <img 
-    width="600"
+    width="400"
     src="output/sample_images/style_example2.jpg"
   >
 </p>
@@ -175,11 +175,11 @@ Garment Designs
 
 <p align="center">
   <img 
-    width="600"
+    width="500"
     src="output/sample_images/style_tranfer_example1.jpg"
   >
     <img 
-    width="600"
+    width="400"
     src="output/sample_images/style_transfer_example2.jpg"
   >
 </p>
